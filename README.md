@@ -14,5 +14,7 @@ Pour obtenir toutes les offres d’une région, sélectionnez la région et rech
 
 # Lien des notebooks
 
-
+- https://github.com/sihao-li/Projet-Initiation-l-algorithmique-et-Python/blob/main/1-Scraping.ipynb
+- https://github.com/sihao-li/Projet-Initiation-l-algorithmique-et-Python/blob/main/2-Stats.ipynb
+- https://github.com/sihao-li/Projet-Initiation-l-algorithmique-et-Python/blob/main/3-NLP.ipynb
 
