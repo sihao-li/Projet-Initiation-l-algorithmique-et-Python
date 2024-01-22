@@ -9,7 +9,7 @@ Pour obtenir toutes les offres d’une région, sélectionnez la région et rech
 # Auteurs
 
 - Si Hao Li : Analyse géographique, modèle de régression, NLP
-- Adrien Loüys : Scraping, Statistique descriptive
+- Adrien Louÿs : Scraping, Statistique descriptive
 - Kelly Claire : Word embedding, scraping avec Selenium
 
 # Lien des notebooks
